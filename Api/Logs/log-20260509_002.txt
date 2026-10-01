@@ -1,0 +1,71 @@
+[2026-05-09 18:25:19 FTL] Application failed to start {"MachineName":"MOHAMED_GALAL","ThreadId":4,"Application":"CompanyEmployees.Api"}
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Api Projects\CompanyEmployees\Api\Program.cs:line 25
+[2026-05-09 18:26:11 FTL] Application failed to start {"MachineName":"MOHAMED_GALAL","ThreadId":4,"Application":"CompanyEmployees.Api"}
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Api Projects\CompanyEmployees\Api\Program.cs:line 25
+[2026-05-09 18:28:18 FTL] Application failed to start {"MachineName":"MOHAMED_GALAL","ThreadId":4,"Application":"CompanyEmployees.Api"}
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Api Projects\CompanyEmployees\Api\Program.cs:line 25
+[2026-05-09 18:29:56 FTL] Application failed to start {"MachineName":"MOHAMED_GALAL","ThreadId":4,"Application":"CompanyEmployees.Api"}
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Api Projects\CompanyEmployees\Api\Program.cs:line 25
+[2026-05-09 18:30:18 FTL] Application failed to start {"MachineName":"MOHAMED_GALAL","ThreadId":4,"Application":"CompanyEmployees.Api"}
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Api Projects\CompanyEmployees\Api\Program.cs:line 25
+[2026-05-09 21:04:48 FTL] Application failed to start {"MachineName":"MOHAMED_GALAL","ThreadId":4,"Application":"CompanyEmployees.Api"}
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Api Projects\CompanyEmployees\Api\Program.cs:line 25
+[2026-05-09 21:07:01 FTL] Application failed to start {"MachineName":"MOHAMED_GALAL","ThreadId":4,"Application":"CompanyEmployees.Api"}
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Api Projects\CompanyEmployees\Api\Program.cs:line 25
+[2026-05-09 21:30:25 INF] Now listening on: http://localhost:5000 {"EventId":{"Id":14,"Name":"ListeningOnAddress"},"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
+[2026-05-09 21:30:25 INF] Application started. Press Ctrl+C to shut down. {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
+[2026-05-09 21:30:25 INF] Hosting environment: Development {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
+[2026-05-09 21:30:25 INF] Content root path: D:\Api Projects\CompanyEmployees\Api {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
+[2026-05-09 21:30:46 INF] Now listening on: http://localhost:5000 {"EventId":{"Id":14,"Name":"ListeningOnAddress"},"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
+[2026-05-09 21:30:46 INF] Application started. Press Ctrl+C to shut down. {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
+[2026-05-09 21:30:46 INF] Hosting environment: Development {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
+[2026-05-09 21:30:46 INF] Content root path: D:\Api Projects\CompanyEmployees\Api {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}

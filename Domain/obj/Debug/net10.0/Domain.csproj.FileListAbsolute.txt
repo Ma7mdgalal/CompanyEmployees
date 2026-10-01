@@ -1,0 +1,11 @@
+D:\Api Projects\CompanyEmployees\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\Api Projects\CompanyEmployees\Domain\bin\Debug\net10.0\Domain.dll
+D:\Api Projects\CompanyEmployees\Domain\bin\Debug\net10.0\Domain.pdb
+D:\Api Projects\CompanyEmployees\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api Projects\CompanyEmployees\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\Api Projects\CompanyEmployees\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\Api Projects\CompanyEmployees\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\Api Projects\CompanyEmployees\Domain\obj\Debug\net10.0\Domain.dll
+D:\Api Projects\CompanyEmployees\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\Api Projects\CompanyEmployees\Domain\obj\Debug\net10.0\Domain.pdb
+D:\Api Projects\CompanyEmployees\Domain\obj\Debug\net10.0\ref\Domain.dll
