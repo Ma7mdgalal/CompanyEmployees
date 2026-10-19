@@ -1,5 +1,0 @@
-[2026-05-07 20:53:50 INF] Now listening on: http://localhost:5000 {"EventId":{"Id":14,"Name":"ListeningOnAddress"},"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
-[2026-05-07 20:53:50 INF] Application started. Press Ctrl+C to shut down. {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
-[2026-05-07 20:53:50 INF] Hosting environment: Development {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
-[2026-05-07 20:53:50 INF] Content root path: D:\Api Projects\CompanyEmployees\Api {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":2,"Application":"CompanyEmployees.Api"}
-[2026-05-07 20:55:31 INF] Application is shutting down... {"SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"MOHAMED_GALAL","ThreadId":3,"Application":"CompanyEmployees.Api"}

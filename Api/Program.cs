@@ -38,7 +38,7 @@ try
 
     app.UseHttpsRedirection();
     app.UseCors("CorsPolicy");
-    app.UseMiddleware<RequestLoggingMiddleware>();
+    app.UseMiddleware<ApiExceptionLoggingMiddleware>();
     app.UseAuthorization();
     app.MapControllers();
     app.Run();

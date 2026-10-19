@@ -2,14 +2,14 @@
 
 namespace Api.Middleware
 {
-    public class RequestLoggingMiddleware
+    public class ApiExceptionLoggingMiddleware
     {
         private readonly RequestDelegate _next;
-        private readonly ILogger<RequestLoggingMiddleware> _logger;
+        private readonly ILogger<ApiExceptionLoggingMiddleware> _logger;
 
-        public RequestLoggingMiddleware(
+        public ApiExceptionLoggingMiddleware(
             RequestDelegate next,
-            ILogger<RequestLoggingMiddleware> logger)
+            ILogger<ApiExceptionLoggingMiddleware> logger)
         {
             _next = next;
             _logger = logger;
@@ -22,14 +22,6 @@ namespace Api.Middleware
             try
             {
                 await _next(context);
-                sw.Stop();
-
-                _logger.LogInformation(
-                    "HTTP {Method} {Path} responded {StatusCode} in {Elapsed}ms",
-                    context.Request.Method,
-                    context.Request.Path,
-                    context.Response.StatusCode,
-                    sw.ElapsedMilliseconds);
             }
             catch (Exception ex)
             {
